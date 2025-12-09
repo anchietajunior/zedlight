@@ -103,7 +103,7 @@ done
 ```
 </details>
 
-## 🙏 Acknowledgments
+## 🙏 Inspirations
 
 - [Atom One Light](https://github.com/atom/one-light-syntax) — Original color palette
 - [Zed Editor](https://zed.dev) — Theme implementation reference
