@@ -2,10 +2,6 @@
 
 A clean, light color scheme for [iTerm2](https://iterm2.com), inspired by [Zed Editor](https://zed.dev)'s One Light theme and the original [Atom One Light](https://github.com/atom/one-light-syntax).
 
-<p align="center">
-  <img src="./screenshots/preview.png" alt="zedlight iTerm2 preview" width="800">
-</p>
-
 ## ✨ Features
 
 - Light theme optimized for daytime use
@@ -75,7 +71,8 @@ Orange  → hsl( 41, 99%, 38%)  → #986801
 
 ## 🖼️ Screenshots
 
-<img width="842" height="417" alt="Screenshot 2025-12-01 at 12 59 21" src="https://github.com/user-attachments/assets/15013c35-7db7-45d2-9bd2-be923a94bc89" />
+<img width="1562" height="1029" alt="Screenshot 2025-12-08 at 23 21 59" src="https://github.com/user-attachments/assets/ad11bda2-2b96-4b69-8913-af35bc156646" />
+
 
 ## 🙏 Inspirations
 
