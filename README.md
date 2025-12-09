@@ -75,33 +75,7 @@ Orange  → hsl( 41, 99%, 38%)  → #986801
 
 ## 🖼️ Screenshots
 
-<details>
-<summary>Ruby</summary>
-
-```ruby
-class User < ApplicationRecord
-  has_many :posts, dependent: :destroy
-  
-  validates :email, presence: true, uniqueness: true
-  
-  def full_name
-    "#{first_name} #{last_name}"
-  end
-end
-```
-</details>
-
-<details>
-<summary>Shell</summary>
-
-```bash
-#!/bin/bash
-for file in *.rb; do
-  echo "Processing $file"
-  ruby "$file" --check
-done
-```
-</details>
+<img width="842" height="417" alt="Screenshot 2025-12-01 at 12 59 21" src="https://github.com/user-attachments/assets/15013c35-7db7-45d2-9bd2-be923a94bc89" />
 
 ## 🙏 Inspirations
 
